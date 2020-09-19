@@ -1,5 +1,5 @@
 ### yarn add --dev webpack webpack-cli ###
-
+a savoir: webpack-cli init : Permet de lancer la config de webpack (webpack.config.info)
 ### yarn add --dev @babel/core @babel/preset-env @babel/preset-react babel-loader ###
 
 **Dans le fichier package.json**
